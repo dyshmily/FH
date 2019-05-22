@@ -1,0 +1,1458 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link type="text/css" rel="stylesheet" href="./css/index.css"/>
+<script type="text/javascript" src="./js/index.js"></script>
+<title>后盾网  www.houdunwang.com  凤凰网首页制作视频教程  www.ifeng.com</title>
+</head>
+<body >
+	<!---------头部开始-------->
+	<div id="header">
+		<div class='masthead dm_center'>
+			<div class='left l'>
+				<div class='logo l'>
+					<a href="javascript:void(0);"><img src="./images/logo.gif"></a>
+				</div>
+				<div class='web l'>
+					<a class='phone' href="javascript:void(0);">手机凤凰网</a>
+					<a class='news' href="javascript:void(0);">新闻客户端</a>
+					<a class='video' href="javascript:void(0);">凤凰视频</a>
+				</div>
+				<div class='date l'>
+					 <p>2013-03-04 星期一 农历正月廿三</p>
+					 <p>
+					  	<span><a href="javascript:void(0);">北京</a></span>
+					 	<span>晴</span>
+						<span><img style='margin:-2px 5px 0px 5px;' height="18" src="./images/d00.jpg"></span>
+						<span style='color:#ed6502;'>15°C</span>
+						<span>/</span>
+						<span>1°C</span>
+					 </p>
+				</div>
+			</div>
+			<div class='right r'>
+				<div class='set_nav l'>
+					 <div class='menu l'>
+					 	  <strong><a href="javascript:void(0);">设为首页</a></strong>|
+						  <a href="javascript:void(0);">首页回顾</a>|
+						  <a href="javascript:void(0);">凤凰网导航</a>|
+						  <a href="javascript:void(0);">繁体版</a>
+					 </div>
+					 <div class='login r'>
+					 	  <a href="javascript:void(0);">注册</a>
+						  <strong><a href="javascript:void(0);">登录</a></strong>
+					 </div>    
+				</div>
+				<div class='find_nav l'>
+					<form action="">
+						<div class='search_keyword l'>
+							<input type="text" value="全国两会  开幕">
+						</div>
+						<div class='search_option l'>
+							<span>站内</span>
+							<ul class='option_box'>
+								<li>站内</li>
+								<li>站外</li>
+								<li>证券</li>
+								<li>汽车</li>
+								<li>视频</li>
+							</ul>
+						</div>
+						<div class='search_btn l'>
+							 <input type="submit" value="">
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class='nav_bj'>
+			<div class='head_nav dm_center'>
+				<ul>
+					<li>
+						<strong><a href="javascript:void(0);">资讯</a></strong>
+						<a href="javascript:void(0);">军事</a>
+						<a href="javascript:void(0);">台湾</a>
+						<a href="javascript:void(0);">评论</a>
+						<a href="javascript:void(0);">图片</a>
+					</li>
+					<li>
+						<strong><a href="javascript:void(0);">视频</a></strong>
+						<a href="javascript:void(0);">记实</a>
+						<a href="javascript:void(0);">播客</a>
+						<a href="javascript:void(0);">军情</a>
+						<a href="javascript:void(0);">VIP</a>
+					</li>
+				</ul>
+				<ul>
+					<li>
+						<strong><a href="javascript:void(0);">财经</a></strong>
+						<a href="javascript:void(0);">股票</a>
+						<a href="javascript:void(0);">基金</a>
+					</li>
+					<li>
+						<strong><a href="javascript:void(0);">娱乐</a></strong>
+						<a href="javascript:void(0);">电影</a>
+						<a href="javascript:void(0);">明星</a>
+					</li>
+				</ul>
+				<ul>
+					<li>
+						<strong><a href="javascript:void(0);">科技</a></strong>
+						<a href="javascript:void(0);">数码</a>
+					</li>
+					<li>
+						<strong><a href="javascript:void(0);">体育</a></strong>
+						<a href="javascript:void(0);">NBA</a>
+					</li>
+				</ul>
+				<ul>
+					<li>
+						<strong><a href="javascript:void(0);">汽车</a></strong>
+						<a href="javascript:void(0);">车型</a>
+						<a href="javascript:void(0);">旅游</a>
+					</li>
+					<li>
+						<strong><a href="javascript:void(0);">时尚</a></strong>
+						<a href="javascript:void(0);">健康</a>
+						<a href="javascript:void(0);">亲子</a>
+					</li>
+				</ul>
+				<ul>
+					<li>
+						<strong><a href="javascript:void(0);">历史</a></strong>
+						<a href="javascript:void(0);">文化</a>
+						<a href="javascript:void(0);">读书</a>
+						<a href="javascript:void(0);">原创</a>
+						<a href="javascript:void(0);">教育</a>
+					</li>
+					<li>
+						<strong><a href="javascript:void(0);">博报</a></strong>
+						<a href="javascript:void(0);">论坛</a>
+						<a href="javascript:void(0);">微博</a>
+						<a href="javascript:void(0);">公益</a>
+						<a href="javascript:void(0);">佛教</a>
+					</li>
+				</ul>
+				<ul>
+					<li>
+						<strong><a href="javascript:void(0);">房产</a></strong>
+						<a href="javascript:void(0);">家居</a>
+						<a href="javascript:void(0);">城市</a>
+						<a href="javascript:void(0);">台湾站</a>
+					</li>
+					<li>
+						<strong><a href="javascript:void(0);">游戏</a></strong>
+						<a href="javascript:void(0);">音乐</a>
+						<a href="javascript:void(0);">星座</a>
+						<a href="javascript:void(0);">大讲堂</a>
+					</li>
+				</ul>
+				<ul style='background:none;padding-right:0px;'>
+					<li>
+						<a href="javascript:void(0);">中医</a>
+						<a href="javascript:void(0);">城客</a>
+						<span >
+							<a class='ifeng_tv' href="javascript:void(0);">凤凰卫视</a>
+						</span>
+					</li>
+					<li>
+						<a href="javascript:void(0);">助学</a>
+						<a href="javascript:void(0);">购车</a>
+						<span>
+							<a href="javascript:void(0);">节目表</a>
+							<a href="javascript:void(0);">主持人</a>
+						</span>	
+							
+					</li>
+				</ul>
+			</div>
+		</div>	
+	</div>
+	<!---------头部结束--------->
+	<!--头部广告位-->
+	<div class='ad_box_1 dm_center'>
+		<ul class='interval'>
+		   <li><a href="javascript:void(0);">2013中高考命题曝光</a></li>
+		   <li><a href="javascript:void(0);">10天说一口流利英语</a></li>
+		   <li><a href="javascript:void(0);">会说中文就会说英语</a></li>
+		   <li><a href="javascript:void(0);">北大千人私募PE班</a></li>
+		   <li><a href="javascript:void(0);">向投资移民陷阱说不</a></li>
+		   <li><a href="javascript:void(0);">2013中高考考点曝光 </a></li>
+		   <li><a href="javascript:void(0);">巧学数理化 神奇3招</a></li>
+		   <li><a href="javascript:void(0);">北大管理哲学博研班</a></li>
+		   <li><a href="javascript:void(0);">北大政商“国学班”</a></li>
+		   <li><a href="javascript:void(0);">"记忆哥"过目不忘法</a></li>
+		   <li><a href="javascript:void(0);">传媒大学政商高研班</a></li>
+		   <li><a href="javascript:void(0);">一年硕博可落户京沪</a></li>
+		   <li><a href="javascript:void(0);">澳洲州担保投资移民</a></li>
+		   <li><a href="javascript:void(0);">北大总裁班报名官网</a></li>
+		</ul>
+		<div class='ad_img interval'>
+			<a href="javascript:void(0);"><img src="./images/ad_img.jpg"></a> 
+		</div>
+		<ul class='interval'>
+			<li><a href="javascript:void(0);">热议严控"以人查房"</a></li>
+			<li><a href="javascript:void(0);">返乡置业 调查报告</a></li>
+			<li><a href="javascript:void(0);">国内掀起“裁员潮”</a></li>
+			<li><a href="javascript:void(0);">合作—快写吧—赚</a></li>
+			<li><a href="javascript:void(0);">60天学会说多国语言</a></li>
+			<li><a href="javascript:void(0);">有影响力的旅游媒体 </a></li>
+			<li><a href="javascript:void(0);">中信新城 精彩亮相</a></li>
+			<li><a href="javascript:void(0);">城镇化论坛-青岛行</a></li>
+			<li><a href="javascript:void(0);">人在厦门欢乐闹元宵</a></li>
+			<li><a href="javascript:void(0);">出国-就上533留学网</a></li>
+			<li><a href="javascript:void(0);">传媒大学政商高研班</a></li>
+			<li><a href="javascript:void(0);">数理化"神奇"学习法</a></li>
+			<li><a href="javascript:void(0);">北五环的别墅生活</a></li>
+			<li><a href="javascript:void(0);">奥北富人区世界豪宅 </a></li>
+		</ul>
+	</div>
+	<div class='adorn_line dm_center'></div>
+	<!--头部焦点信息------>
+	<div class='focus dm_center'>
+		<div class='item'>
+	 	 	  <a class='item_img' href="">
+	 	 	  	<img src="./images/fc_item.jpg" />
+	 	 	  </a>
+			  <h3><a class='video' href="javascript:void(0);">金正恩遭算计？</a></h3>
+			  <p>金正恩施展软硬两手，携夫人陪球星看比赛，与美国私下互动有内幕。</p>
+	 	 </div>
+		 <div class='item'>
+	 	 	  <a class='item_img' href="">
+	 	 	  	<img src="./images/rdn_5130848747bfa.jpg" />
+	 	 	  </a>
+			  <h3><a href="javascript:void(0);">徐昕：司法独立不影响中共利益 </a></h3>
+			  <p>司法独立有利于中国共产党的领导，党可以对司法独立完全放心。</p>
+	 	 </div>
+		 <div class='item'>
+	 	 	  <a class='item_img' href="">
+	 	 	  	<img src="./images/21094697.jpg" />
+	 	 	  </a>
+			  <h3><a href="javascript:void(0);">土地供应垄断到竞争 促房价回归</a></h3>
+			  <p>辜胜阻称，新型城镇化推动土地供应由垄断转向竞争，促房价回归。 </p>
+	 	 </div>
+	</div>		
+	<!--头部广告位结束-->
+	<!--页面主体开始-->
+	<div id="main" class='dm_center' >
+		<div class='main_l l'>
+			<div class='box_200'>
+				 <div class='title_1'>
+				 	 <a href="javascript:void(0);">评论</a>
+				 </div>
+				 <div class='pic_text_1'>
+				 	  <h3><a href="javascript:void(0);">政府职能转变需多些“减法”思维</a></h3>
+					  <div>
+					  	  <a class='img' href="javascript:void(0);"><img width=48 height=48 src="./images/07574646.jpg"></a>
+					  	  <p>政府要在行政审批上做足减法，将权力交到市场和社会手中。<a href="javascript:void(0);">[详细]</a></p>	
+					  </div>
+				 </div>
+				 <ul class='list_1'>
+				 	 <li><a href="javascript:void(0);">房地产只能扮演城镇化配角 </a></li>
+					 <li><a href="javascript:void(0);">摆脱“管理即收费”的路径依赖  </a></li>
+					 <li><a href="javascript:void(0);">房产产权未解决前不宜开征遗产税  </a></li>
+				 </ul>
+			</div>
+			<div class='box_200'>
+				 <div class='title_1'>
+				 	 <a href="javascript:void(0);">凤凰联播台</a>
+					 <span>全媒体全时空</span>
+				 </div>
+			      <div class='pic_text_1'> 
+				  		<h3><a style='font-size:12px;' href="jvascript:void(0);">奥巴马赞安倍对钓岛争端处理克制</a></h3>
+						<div>
+							<a class='img' href="javascript:void(0);">
+								<img src="./images/09372487.jpg">
+							</a>
+							<p>
+								日媒称奥巴马认为中日关系紧张责任不在日本。<a href="javascript:void(0);">[详细]</a>
+							</p>
+						</div>
+				  </div>
+				  <ul class='list_1'>
+						<li><a href="javascript:void(0);">环球直播室：安倍对解放军放狠话</a></li>
+						<li><a href="javascript:void(0);">全球连线：中日能否共同罢手？</a></li>
+						<li><a href="javascript:void(0);">全媒体：两会明星委员抵驻地报到</a></li>
+						<li><a href="javascript:void(0);">今日谈：教宗辞职为何谣言四起</a></li>
+						<li><a href="javascript:void(0);">北京客：90后艺考美女跟拍揭秘</a></li>
+				  </ul>
+			</div>
+			<div class='box_200'>
+				 <div class='title_1'>
+				 	 <a href="javascript:void(0);">评论</a>
+				 </div>
+				 <ul class='list_1'>
+		 	 		<li><span><a href="javascript:void(0);">[习近平]</a></span><a href="javascript:void(0);">为二炮某部队记一等功</a></li>
+					<li><span><a href="javascript:void(0);">[美媒]</a></span><a href="javascript:void(0);">两会将讨论军费增长12%</a></li>
+					<li><span><a href="javascript:void(0);">[评论]</a></span><a href="javascript:void(0);">参拜靖国神社是安倍筹码</a></li>
+					<li><span><a href="javascript:void(0);">[关注]</a></span><a href="javascript:void(0);">访朝球星称想见“鸟叔”</a></li>
+					<li><span><a href="javascript:void(0);">[互动]</a></span><a href="javascript:void(0);">中国能否与周边妥处分歧</a></li>
+				 </ul>
+			</div>
+			<div class='ad_200'>
+				 <iframe frameborder=0 width="100%" height="100%" scrolling="no" src="http://y3.ifengimg.com/tres/recommend/weisinuo/130301/200x250.html"></iframe>
+			</div>
+			<div class='box_200'>
+				 <div class='title_1'>
+				 	 <a href="javascript:void(0);">证券</a>
+				 </div>
+				 <div id="curve">
+				 	 <ul class='curve_item'>
+				 	 	 <li><a href="javascript:void(0);">上证</a></li>
+						 <li><a href="javascript:void(0);">深成</a></li>
+						 <li><a href="javascript:void(0);">基金</a></li>
+						 <li class='active'><a href="javascript:void(0);">恒指</a></li>
+				 	 </ul>
+					 <div class='data_pic_box'>
+					 	  <div class='data_pic' style='display:block;'>
+					 	  	  <span>↓3979.77 -169(-4.10%)</span>
+							  <p><a href="javascript:void(0);"><img src="./images/w_sh000001.gif"></a></p>
+					 	  </div>
+						  <div class='data_pic' style='display:block;'>
+					 	  	  <span>↓3979.77 -169(-4.10%)</span>
+							  <p><a href="javascript:void(0);"><img src="./images/w_sh000001.gif"></a></p>
+					 	  </div>
+						  <div class='data_pic' style='display:block;'>
+					 	  	  <span>↓3979.77 -169(-4.10%)</span>
+							  <p><a href="javascript:void(0);"><img src="./images/w_sh000001.gif"></a></p>
+					 	  </div>
+						  <div class='data_pic' style='display:block;'>
+					 	  	  <span>↓3979.77 -169(-4.10%)</span>
+							  <p><a href="javascript:void(0);"><img src="./images/w_sh000001.gif"></a></p>
+					 	  </div>
+					 </div>
+				 </div>
+				 <div class='stock_search'>
+				 	  <form action="">
+				 	  	  <input class='text l' type="text" value="代码/拼音/名称">
+						  <input class='submit l' type="submit" value="">
+				 	  </form>
+				 </div>
+				 <ul class='hotwords'>
+				 	 <li>
+					  	  <a href="javascript:void(0);">行情</a>
+						  <a href="javascript:void(0);">资金</a>
+						  <a href="javascript:void(0);">诊股</a>
+						  <a href="javascript:void(0);">自选股</a>
+					 </li>
+					 <li>
+					  	  <a href="javascript:void(0);">直播</a>
+						  <a href="javascript:void(0);">大单</a>
+						  <a href="javascript:void(0);">业绩</a>
+						  <a href="javascript:void(0);">龙虎榜</a>
+					 </li>
+				 </ul>
+			</div>
+			<div class='box_200'>
+				 <div class='title_1 '>
+				 	 <a class='ifeng_tv' href="javascript:void(0);">凤凰节目</a>
+					 <span>刘长乐社区</span>
+				 </div>
+				 <div class='pic_text_1'> 
+			  		<h3><a href="jvascript:void(0);">“屌丝”流行背后的仇富文化 </a></h3>
+					<div>
+						<a class='img' href="javascript:void(0);">
+							<img src="./images/287_4951427232_20130303084432s.jpg">
+						</a>
+						<p>
+							许子东：1949年以来生活中人人都想富，舆论中人人都装穷。<a href="javascript:void(0);">[详细]</a>
+						</p>
+					</div>
+				 </div>
+				 <ul class='list_1'>
+					<li><span><a href="javascript:void(0);">[李光耀]</a></span><a href="javascript:void(0);">全球即将进入中国世纪</a></li>
+					<li><span><a href="javascript:void(0);">[评论]</a></span><a href="javascript:void(0);">钓鱼岛 安倍已无牌可出</a></li>
+					<li><span><a href="javascript:void(0);">[朝鲜]</a></span><a href="javascript:void(0);">获俄中支援 秘造核潜艇</a></li>
+					<li><span><a href="javascript:void(0);">[锵锵]</a></span><a href="javascript:void(0);">春晚 宋祖英成“托儿”</a></li>
+					<li><span><a href="javascript:void(0);">[调查]</a></span><a href="javascript:void(0);">习李新政新风气感受如何</a></li>
+				</ul>
+				 <div class='pic_text_2'>
+				 	 <a href="javascript:void(0);"><img src="./images/17400017.jpg"></a>
+					 <div class='keep_bj keep_public_bj'></div>
+					 <p class='keep_public_text'><a href="javascript:void(0);">周恩来“逼”陈毅之子离京内幕</a></p>
+				 </div>
+				 <ul class='list_1'>
+ 	 				<li><span><a href="javascript:void(0);">[招聘]</a></span><a href="javascript:void(0);">卫视频道全职及实习招聘</a></li>
+					<li><span><a href="javascript:void(0);">[观点]</a></span><a href="javascript:void(0);">“辽宁号”作用承上启下</a></li>
+					<li><span><a href="javascript:void(0);">[军情]</a></span><a href="javascript:void(0);">解放军研制核动力航母</a></li>
+					<li><span><a href="javascript:void(0);">[内地]</a></span><a href="javascript:void(0);">“同志父母”吁改婚姻法</a></li>
+					<li><span><a href="javascript:void(0);">[图集]</a></span><a href="javascript:void(0);">李双江：不要得罪儿子</a></li>
+				 </ul>
+			</div>
+			<div class='ad_200'>
+				<embed src="./images/19784f9c8fadcea38ae28e9096110d49.swf" width="100%" height="100%" type="application/x-shockwave-flash"></embed>
+			</div>
+			<div class='box_200'>
+				 <div class='title_1'>
+				 	 <a href="javascript:void(0);">商讯</a>
+				 </div>
+				 <ul class='list_1'>
+		 	 		<li><a href="javascript:void(0);">男人强壮的秘密武器—男人必看</a></li>
+					<li><a href="javascript:void(0);">糖尿病—2013获国际重大突破</a></li>
+					<li><a href="javascript:void(0);">让男人强壮的秘密——男人必看</a></li>
+					<li><a href="javascript:void(0);">让男人“强壮”——的秘密武器</a></li>
+					<li><a href="javascript:void(0);">让女人幸福（图）——男人必看</a></li>
+					<li><a href="javascript:void(0);">痛风—风湿—权威突破新成果</a></li>
+					<li><a href="javascript:void(0);">（腰椎病—颈椎病）国际新突破</a></li>
+					<li><a href="javascript:void(0);">糖尿病--新一代口服胰岛素问世</a></li>
+				 </ul>
+			</div>
+			<div class='ad_200' style='height:320px;'>
+				<a href="javascript:void(0);"><img src="./images/ad_320.jpg"></a>
+			</div>
+			<div class='tab_box_1'>
+				 <ul class='channel'>
+				 	 <li class='w64 '><a href="javascript:void(0);">音乐</a></li>
+					 <li class='w64'><a href="javascript:void(0);">彩铃</a></li>
+					 <li class='w72 active'><a href="javascript:void(0);">手机视频</a></li>
+				 </ul>
+				 <div class='box'>
+				 	 <div class='content'>
+				 	 	 <a class='img' href="javascript:void(0);"><img src="./images/123.jpg"></a>
+				 	 	 <ul>
+				 	 	 	<li><a href="javascript:void(0);">荧屏火热镜头堪比三级</a></li>
+							<li><a href="javascript:void(0);">荧屏火热镜头堪比三级</a></li>
+							<li><a href="javascript:void(0);">荧屏火热镜头堪比三级</a></li>
+				 	 	 </ul>	
+					 </div>
+				 </div>
+			</div>
+			<div class='ad_200' style='height:92px;padding:7px 0px;background:#FFF;'>
+				 <a href="javascript:void(0);"><img src="./images/407a47823a4412df0005b53ccc8b665a.jpg"></a>
+				 <p><a href="javascript:void(0);">挺两会焦点言论 赢习酒窖藏1988</a></p>	
+			</div>
+			<div class='ad_200' style='height:90px;'>
+				 <a href="javascript:void(0);"><img src="./images/452e45f0a3c7468e242699fa970e90f0.jpg"></a>
+			</div>
+			<div class='box_200'>
+				 <div class='title_1'>
+				 	 <a href="javascript:void(0);">凤凰商城</a>
+				 </div>
+				  <div class='pic_text_2'>
+				 	 <a href="javascript:void(0);"><img src="./images/17400017.jpg"></a>
+					 <div class='keep_bj keep_public_bj'></div>
+					 <p class='keep_public_text'><a href="javascript:void(0);">周恩来“逼”陈毅之子离京内幕</a></p>
+				 </div>
+				 <ul class='list_1'>
+				 	 <li><a href="javascript:void(0);">房地产只能扮演城镇化配角 </a></li>
+					 <li><a href="javascript:void(0);">摆脱“管理即收费”的路径依赖  </a></li>
+					 <li><a href="javascript:void(0);">房产产权未解决前不宜开征遗产税  </a></li>
+					 <li><a href="javascript:void(0);">房地产只能扮演城镇化配角 </a></li>
+				 </ul>
+			</div>
+			<div class='ad_200' style="height:500px;">
+				<embed src="./images/0.swf" width="100%" height="100%" type="application/x-shockwave-flash"></embed>
+			</div>
+			<div class='box_200'>
+				 <div class='title_1'>
+				 	 <a href="javascript:void(0);">凤凰无线·讲堂</a>
+				 </div>
+		  	  <div class='pic_text_2'>
+			  	  <a href="javascript:void(0);"><img src="./images/11355856.jpg"></a>
+				  <div class='keep_bj'></div>
+				  <div class='text'>
+				  	   <a href="javascript:void(0);"> 孙瑞雪 孩子孙瑞雪：能给孩子什么财富？</a>
+				  </div>
+			  </div>
+			  <ul class='list_1'>
+					<li><a href="javascript:void(0);">纪连海：和珅的老婆主动找小妾</a></li>
+					<li><a href="javascript:void(0);">阮次山：经济危机病因何在？</a></li>
+					<li><a href="javascript:void(0);">董易林：都市楼房风水有讲究</a></li>
+					<li><a href="javascript:void(0);">黄菡：人际关系的基本态度</a></li>
+					<li><a href="javascript:void(0);">何亮亮：应理性看待国际关系</a></li>
+					<li><a href="javascript:void(0);">王生升：应真诚面对公关危机</a></li>
+			  </ul>
+			</div>
+			<div class='ad_200'>
+				 <iframe frameborder=0 width="100%" height="100%" scrolling="no" src="http://strip.taobaocdn.com/tfscom/T1pQMZXXBaXXbMsGbX.html?name=itemdsp&url=www.ifeng.com&iswt=1&pid=tt_12229823_1573806_9027488&refpos=,n,i&adx_type=0&pvid=ac1882415c2d5135af420000003eacb8_0&tanxdspv=http%3A%2F%2Frdstat.tanx.com%2Ftrd%3F%26f%3D%26k%3Da09e279ad7f7a12a%26p%3Dmm_12229823_1573806_9027488%26pvid%3D9a4a703ec8e3a60fc557190e67889d73"></iframe>
+			</div>
+			<div class='tab_box_1'>
+				 <ul class='channel'>
+				 	 <li class='w99 active'><a href="javascript:void(0);">手机凤凰网</a></li>
+					 <li class='w99'><a href="javascript:void(0);">凤凰客户端</a></li>
+				 </ul>
+				 <div class='box2'>
+				 	 <ul class='list_1'>
+				 	 	<li><span><a href="javascript:void(0);">[招聘]</a></span><a href="javascript:void(0);">房地产只能扮演城镇 </a></li>
+					 	<li><span><a href="javascript:void(0);">[招聘]</a></span><a href="javascript:void(0);">摆脱“管理即收费”的路  </a></li>
+					 	<li><span><a href="javascript:void(0);">[招聘]</a></span><a href="javascript:void(0);">房产产权未解决前不宜开  </a></li>
+					 	<li><span><a href="javascript:void(0);">[招聘]</a></span><a href="javascript:void(0);">房地产只能扮演城镇化 </a></li>
+						<li><span><a href="javascript:void(0);">[招聘]</a></span><a href="javascript:void(0);">房地产只能扮演城镇化 </a></li>
+				 	</ul>
+				 </div>
+			</div>
+			<div class='ad_200'>
+				<embed src="./images/537af7de8234dca042878caa64d9e06b.swf" width="100%" height="100%" type="application/x-shockwave-flash"></embed>
+			</div>
+			<div class='box_200'>
+				 <div class='title_1'>
+				 	 <a href="javascript:void(0);">媒体合作</a>
+				 </div>
+				 <ul class='list_1'>
+				 	 <li><a href="jvascriptvoid(0);">2012年度华人经济领袖盛典</a></li>
+					 <li><a href="jvascriptvoid(0);">2013中国商业创新50人评选 </a></li>
+					 <li><a href="jvascriptvoid(0);">中日武器大PK谁将被完爆</a></li>
+					 <li><a href="jvascriptvoid(0);">第20届中歌榜颁奖典礼 </a></li>
+					 <li><a href="jvascriptvoid(0);">第十二届中国经济论坛</a></li>
+					 <li><a href="jvascriptvoid(0);">2012年度十大正能量颁奖典礼 </a></li>
+					 <li><a href="jvascriptvoid(0);">2013年天下经济论坛 </a></li>
+				</ul>
+			</div>
+			<div class='box_200'>
+				  <div class='title_1'>
+				 	 <a href="javascript:void(0);">关于凤凰新媒体</a>
+				 </div>
+				 <ul class='list_1'>
+			 	 	 <li><a href="jvascriptvoid(0);">凤凰网获2012中国最佳雇主30强</a></li>
+					 <li><a href="jvascriptvoid(0);">凤凰汽车盛典圆满举办  </a></li>
+					 <li><a href="jvascriptvoid(0);">凤凰网刘爽：互联网行业不用拼爹</a></li>
+					 <li><a href="jvascriptvoid(0);">凤凰新拍客颁十项年度大奖 </a></li>
+					 <li><a href="jvascriptvoid(0);">张柏芝洪晃获凤凰时尚领袖大奖</a></li>
+					 <li><a href="jvascriptvoid(0);">改革新动力-凤凰财经峰会召开 </a></li>
+					 <li><a href="jvascriptvoid(0);">2012年度十大华人经济领袖揭晓 </a></li>
+				 </ul>
+			</div>
+		</div>
+		<div class='main_r r'>
+			 <div class='box_360 l'>
+			 	  <div class='hot_news'>
+			 	  	<span><a href="javascript:void(0);">要闻</a></span>
+				  	<p><a href="javascript:void(0);"><img src="./images/18343267.jpg"></a></p>
+				  </div>
+				  <h1><a href="javascript:void(0);">视频、文字直播温家宝最后一次工作报告</a></h1>
+				  <ul class='list_2'>
+			  	    <li><a href="javascript:void(0);">香港立法会议员：限奶不是香港人有没有中国心的问题</a></li>
+					<li><a href="javascript:void(0);">习近平：各级领导干部都要有本领不够的危机感(全文)</a></li>
+					<li><a href="javascript:void(0);">15时直播政协会议开幕 主席团名单(323人)</a></li>
+					<li><a class='bold' href="javascript:void(0);">政协：若钓鱼岛擦枪走火 日本承担一切后果</a> <a class='bold' href="javascript:void(0);">实录</a></li>
+				 	<li><a href="javascript:void(0);">吕新华答问比赵启正少一半 部分记者失望</a></li>
+					<li><a href="javascript:void(0);">盘点24位“红色后代”政协委员：陈云之子等3人系新任</a></li>
+					<li><a href="javascript:void(0);">宗庆后：我没有不义之财怕什么 不会移民</a></li>
+					<li><a href="javascript:void(0);">政协委员提案：为新任国家领导人举办就职典礼</a></li>
+					<li><a href="javascript:void(0);">山西宣传部长：若不让申纪兰当选 反对声更大</a> <a href="javascript:void(0);">中国梦</a></li>
+					<li><a class='bold' href="javascript:void(0);">计委大院旧事：朱镕基挎篮子买菜还砍价</a></li>
+					<li><a href="javascript:void(0);">200万二手房最高征46万税费 上海购房者排队抢过户 </a></li>
+					<li><a href="javascript:void(0);">武警上海总队原参谋长朱宏任重庆总队司令员</a></li>
+					<li><a href="javascript:void(0);">中海油高管：若避免重复计税 1升油可节约1.7元 </a></li>
+					<li><a href="javascript:void(0);">中俄海军6月拟在日本海举行“近年来最大规模”演习</a></li>
+					<li><a class='bold' href="javascript:void(0);">欧美十大命案酒店：伦敦酒店割喉案被质疑40年</a></li>
+					<li><a href="javascript:void(0);">网传蔡振华将接替刘鹏出任国家体育总局局长(图)</a></li>
+					<li><a href="javascript:void(0);">两名哈尔滨网友斗富：你晒成捆大钞 我晒千万存款(图)</a></li>
+				  </ul>
+				  <div class="interval_8"></div>
+				  <div class="interval_8"></div>
+				  <ul class='list_3'>
+			  	     <li class='red_v'><a href="javascript:void(0);">丰谷酒王-凤凰联播台：中共18大后日立刻修防卫指针</a></li>
+					 <li><a href="javascript:void(0);">两会策划《大开局》：习李新政多个“首次”曝光 </a></li>
+					 <li><a href="javascript:void(0);">实拍男子拍照失足坠江 武警舍身救人被江水卷走 </a></li>
+					 <li><a href="javascript:void(0);">天津煎饼摊摊主遇央视街采“梦想是什么” 大喊糊了</a></li>
+					 <li><a href="javascript:void(0);">甲乙丙丁：艺考面试现场 最美艺考生直面没文化质疑 </a></li>
+			  	  	 <li class='round'><a href="javascript:void(0);">福建晋江富豪2亿嫁妆嫁女：5亩仓库摆400桌酒宴</a></li>
+				  </ul>
+				  <div class="interval_8"></div>
+				  <div class="interval_8"></div>
+				  <div class="interval_8"></div>
+				  <div class='ad_360'>
+				  	   <ul class='ad_list_1'>
+				  	   	   <li><a href="javascript:void(0);">大同古城复建 复兴背后 “新”与“旧”的较量</a></li>
+						   <li><a href="javascript:void(0);">[城市观察]九问武汉：武汉崛起还需多少年？</a></li>
+						   <li><a href="javascript:void(0);">狭缝中的方言：粤语式微，当辉煌已成往事</a></li>
+						   <li><a href="javascript:void(0);">挖掘五千年中原文化精髓 建设美丽河南</a></li>
+				  	   </ul>
+				  </div>
+			 </div>
+			 <div class='box_360 r'>
+				 <div id="tab_animate">
+			 	 	 <ul class='item'>
+	 	 	 	 	  <li class='active'><a href="javascript:void(0);">资讯</a></li>
+					  <li><a href="javascript:void(0);">娱乐</a></li>
+					  <li><a href="javascript:void(0);">体育</a></li>
+					  <li><a href="javascript:void(0);">汽车</a></li>
+					  <li><a href="javascript:void(0);">时尚</a></li>
+					  <li><a href="javascript:void(0);">历史</a></li>
+					  <li><a href="javascript:void(0);">记实</a></li>
+					  <li><a href="javascript:void(0);">游戏</a></li>
+			 	 	 </ul>
+					 <div class='pic_box'>
+					 	  <a class='btn_left' href="javascript:void(0);"></a>
+						  <a class='btn_right' href="javascript:void(0);"></a>
+						  <ul>
+						  	 <li>
+						  	 	<a href="javascript:void(0);"><img src="./images/10311089.jpg"></a>
+						  	 	<p class='keep_bj keep_public_bj'></p>
+								<p class='text keep_public_text'><a href="javascript:void(0);">周恩来诞辰115周年 1976年去世全民恸哭[高清]</a></p>
+							 </li>
+						  	 <li><a href="jvascript:void(0);"><img src="./images/10311089.jpg"></a></li>
+							 <li><a href="jvascript:void(0);"><img src="./images/09131666.jpg"></a></li>
+							 <li><a href="jvascript:void(0);"><img src="./images/287_4951427232_20130303084432.jpg"></a></li>
+							 <li><a href="jvascript:void(0);"><img src="./images/rdn_5131acbc393b5.jpg"></a></li>
+							 <li><a href="jvascript:void(0);"><img src="./images/10034131.jpg"></a></li>
+							 <li><a href="jvascript:void(0);"><img src="./images/09502126.jpg"></a></li>
+							 <li><a href="jvascript:void(0);"><img src="./images/08275257.jpg"></a></li>
+						  </ul>
+					 </div>
+			 	 </div>
+				<!--视频列表区域-->
+			 	 <div class='title_2'>
+			 	 	  <span class='c_name l'>
+			 	 	  	  <a href="javascript:void(0);">视频</a>
+			 	 	  </span>
+					  <span class='c_sort r'>
+					  	 <a href=" 凤凰卫视">凤凰卫视</a><a href="直播">直播</a><a href="VIP">VIP</a><a class='no_bj' href="雪花纯生两会特约">雪花纯生两会特约</a> 
+					  </span>
+			 	 </div>
+				 <div class='pic_text_3'>
+				 	  <h3><a href="javascript:void(0);">温家宝三鞠躬告别</a> <a href="现场突变安静">现场突变安静</a> <a href="回顾十年声音">回顾十年声音</a></h3>
+				 	  <div class='box'>
+				 	  	   <div class='hot_pic'>
+				 	  	   	    <a href="javascript:void(0);"><img src="./images/123-chaws.jpg"></a>
+				 	  	   		<div class='keep_bj keep_public_bj'></div>
+								<p class='keep_public_text'><a href="javascript:void(0);">反美斗士查韦斯病逝</a></p>
+						   </div>
+						   <ul>
+						   	    <li><a href="javascript:void(0);">实拍胡锦涛习近平步入政协会场</a></li>
+								<li><a href="javascript:void(0);">姚明被安排“特座” 方便长腿伸展</a></li>
+								<li><a href="javascript:void(0);">赵本山：房间里没水果了 这样很好</a></li>
+								<li><a href="javascript:void(0);">中国舰队若穿俄日海峡入洋将引震撼</a></li>
+						   </ul>
+				 	  </div>	
+				 </div>
+				 <div class='interval_17'></div>
+				 <ul class='list_3'>
+			  	     <li class='red_v'><span><a href="javascript:void(0);">[聚焦]</a></span><a href="javascript:void(0);">丰谷酒王-凤凰联播台：中共18大后日立刻修</a></li>
+					 <li><span><a href="javascript:void(0);">[热点]</a></span><a href="javascript:void(0);">曝王金平之子与另一官二代在英国抢大学校花</a></li>
+					 <li><span><a href="javascript:void(0);">[社会]</a></span><a href="javascript:void(0);">男子偷瞄衣着暴露女子被骂</a> <a href="javascript:void(0);">辩称我是正常男人</a></li>
+					 <li><span><a href="javascript:void(0);">[播客]</a></span><a href="javascript:void(0);">儿子当街乱刀捅死父亲 </a><a href="javascript:void(0);">14岁女生与五网友滥交</a></li>
+					 <li><span><a href="javascript:void(0);">[娱乐]</a></span><a href="javascript:void(0);">李双江之子下周被捕 </a><a href="javascript:void(0);">专家称其家庭关系不正常</a></li>
+					 <li><span><a href="javascript:void(0);">[八卦]</a></span><a href="javascript:void(0);">《泰囧》被诉侵权 </a><a href="javascript:void(0);">春晚小子邓鸣贺做初次化疗</a></li>
+					 <li><span><a href="javascript:void(0);">[影视]</a></span><a href="javascript:void(0);">胭脂霸王 </a><a href="javascript:void(0);">出轨日记</a> <a href="javascript:void(0);">太极2</a> <a href="javascript:void(0);">幻影追凶</a> <a href="javascript:void(0);">午夜之爱</a></li>
+			  	  	 <li class='round'><span><a href="javascript:void(0);">[聚焦]</a></span><a href="javascript:void(0);">福建晋江富豪2亿嫁妆嫁女：5亩仓库摆4</a></li>
+				  </ul>
+				  <!--财经股票列表区域-->
+				  <div class="interval_8"></div>
+				  <div class="interval_8"></div>
+				  <div class="interval_8"></div>
+				  <!--广告位-->
+				  <div class='ad_360'>
+				  	   <ul class='ad_list_1'>
+				  	   	   <li><a href="javascript:void(0);">大同古城复建 复兴背后 “新”与“旧”的较量</a></li>
+						   <li><a href="javascript:void(0);">[城市观察]九问武汉：武汉崛起还需多少年？</a></li>
+						   <li><a href="javascript:void(0);">狭缝中的方言：粤语式微，当辉煌已成往事</a></li>
+						   <li><a href="javascript:void(0);">挖掘五千年中原文化精髓 建设美丽河南</a></li>
+				  	   </ul>
+				  </div>
+			 </div>	
+			 <div class='c'></div>
+			 <div class='ad_750'>
+			 	 <embed src="./images/94c1e1bf2b870fb0df9b039ac4529901.swf" width="100%" height="100%" type="application/x-shockwave-flash"></embed>
+			 </div>
+			 <div class='box_360 l'>
+			 	  <!--财经股票列表区域-->
+				  <div class='title_2'>
+	 	 	  		<span class='c_name l'>
+	 	 	  	   		<a href="javascript:void(0);">财经·股票</a>
+					</span>
+				    <span class='c_sort r'>
+				   		<a href="javascript:void(0);">2013两会：新动力</a><a href="javascript:void(0);">龙虎榜</a><a style='background:none;' href="javascript:void(0);">最佳分析师排名</a>
+				    </span>
+			 	 </div>
+				  <ul class='list_2'>
+				  	<h3>
+				  		<a href="javascript:void(0);">中央祭出最犀利楼市调控</a> 
+						<a href="javascript:void(0);">近七成网友称不合理</a>
+					</h3>
+			  	    <li><a href="javascript:void(0);">政协委员：中国空气污染已成外国人茶余饭后讽刺材料</a></li>
+					<li><a href="javascript:void(0);">宗庆后称企业家有责任帮员工致富 建议免征工薪层个税</a></li>
+					<li><a href="javascript:void(0);">新华社：八成省份GDP目标增速超10% 环境hold得住吗 </a></li>
+					<li><a href="javascript:void(0);">北师大报告建议500万起征遗产税 每年可增税收2000亿 </a></li>
+					</ul>
+				<div class='interval_10'></div>
+				<ul class='list_2'>
+					<li><span><a href="javascript:void(0);">[股票]</a></span><a href="javascript:void(0);">十字星或暗示变盘 两主线掘金 25股入社保法眼</a></li>
+					<li><span><a href="javascript:void(0);">[股民]</a></span><a href="javascript:void(0);">老股民谈资本增长近60倍秘诀 坦言一事很重要</a></li>
+					<li><span><a href="javascript:void(0);">[个股]</a></span><a href="javascript:void(0);">68股目标价或有四成涨幅 八股涨幅番翻(名单)</a></li>
+					<li><span><a href="javascript:void(0);">[港股]</a></span><a href="javascript:void(0);">80后首富杨惠妍：仅少数高层有机会见面 </a></li>
+					<li><span><a href="javascript:void(0);">[银行]</a></span><a href="javascript:void(0);">基金公司上市指日可待 20家公司或有机会上市  </a></li>
+					<li><span><a href="javascript:void(0);">[基金]</a></span><a href="javascript:void(0);">办了卡难退卡 信用卡优惠背后银行频设陷阱</a></li>
+					<li><span><a href="javascript:void(0);">[理财]</a></span><a href="javascript:void(0);">购房者忐忑观望新政 200万住房最高征46万税费</a></li>
+				  </ul>
+				  <!--财经股票列表区域-->
+				  <div class='interval_17'></div>
+				  <div class='interval_8'></div>
+				  <div class='title_2'>
+	 	 	  		<span class='c_name l'>
+	 	 	  	   		<a href="javascript:void(0);">财经·股票</a>
+					</span>
+				    <span class='c_sort r'>
+				   		<a href="javascript:void(0);">2013两会：新动力</a><a href="javascript:void(0);">龙虎榜</a><a style='background:none;' href="javascript:void(0);">最佳分析师排名</a>
+				    </span>
+			 	 </div>
+				  <ul class='list_2'>
+				  	<h3>
+				  		<a href="javascript:void(0);">中央祭出最犀利楼市调控</a> 
+						<a href="javascript:void(0);">近七成网友称不合理</a>
+					</h3>
+			  	    <li><a href="javascript:void(0);">政协委员：中国空气污染已成外国人茶余饭后讽刺材料</a></li>
+					<li><a href="javascript:void(0);">宗庆后称企业家有责任帮员工致富 建议免征工薪层个税</a></li>
+					<li><a href="javascript:void(0);">新华社：八成省份GDP目标增速超10% 环境hold得住吗 </a></li>
+					<li><a href="javascript:void(0);">北师大报告建议500万起征遗产税 每年可增税收2000亿 </a></li>
+					<li><a href="javascript:void(0);">新华社：八成省份GDP目标增速超10% 环境hold得住吗 </a></li>
+					<li><a href="javascript:void(0);">新华社：八成省份GDP目标增速超10% 环境hold得住吗 </a></li>
+					</ul>
+				<div class='interval_10'></div>
+				<ul class='list_2'>
+					<li><span><a href="javascript:void(0);">[股民]</a></span><a href="javascript:void(0);">老股民谈资本增长近60倍秘诀 坦言一事很重要</a></li>
+					<li><span><a href="javascript:void(0);">[个股]</a></span><a href="javascript:void(0);">68股目标价或有四成涨幅 八股涨幅番翻(名单)</a></li>
+					<li><span><a href="javascript:void(0);">[港股]</a></span><a href="javascript:void(0);">80后首富杨惠妍：仅少数高层有机会见面 </a></li>
+					<li><span><a href="javascript:void(0);">[银行]</a></span><a href="javascript:void(0);">基金公司上市指日可待 20家公司或有机会上市  </a></li>
+					<li><span><a href="javascript:void(0);">[基金]</a></span><a href="javascript:void(0);">办了卡难退卡 信用卡优惠背后银行频设陷阱</a></li>
+					<li><span><a href="javascript:void(0);">[理财]</a></span><a href="javascript:void(0);">购房者忐忑观望新政 200万住房最高征46万税费</a></li>
+				  </ul>
+				  <div class='interval_22'></div>
+				  <!--广告位-->
+				  <div class='ad_360'>
+				  	   <ul class='ad_list_2'>
+				  	   	  <li><a href="javascript:void(0);">高血压被破解震动世界</a></li>
+					      <li><a href="javascript:void(0);">关注男性糖尿病的尴尬</a></li>
+					      <li><a href="javascript:void(0);">中医减肥：这样吃能瘦</a></li>
+					      <li><a href="javascript:void(0);">男人“吃”茶幸福全家</a></li>
+						  <li><a href="javascript:void(0);">老婆“下斑”后变美女</a></li>
+					      <li><a href="javascript:void(0);">惊！“补黄金”血管通</a></li>
+					      <li><a href="javascript:void(0);">静脉曲张穿袜子真管用</a></li>
+					      <li><a href="javascript:void(0);">男人茶让男人重振雄风</a></li>
+					   </ul>
+				  </div>
+			 </div>
+			  <div class='box_360 r'>
+			 	  <!--财经股票列表区域-->
+				  <div class='title_2'>
+	 	  			<span class='c_name l'>
+	 	 	  	   		<a href="javascript:void(0);">博报·微博</a>
+					</span>
+				    <span class='c_sort r'>
+						<a href="javascript:void(0);">台湾博客</a>
+						<a style='background:none;' href="javascript:void(0);">给理想一点时间</a>
+				    </span>
+			 	 </div>
+				 <div class='pic_text_3'>
+				 	  <h3><a href="javascript:void(0);">长风：金正恩超常规款待美国客人给谁看(图)</a> </h3>
+				 	  <div class='box'>
+				 	  	   <div class='hot_pic'>
+				 	  	   	    <a href="javascript:void(0);"><img src="./images/09291165.jpg"></a>
+				 	  	   		<div class='keep_bj keep_public_bj'></div>
+								<p class='keep_public_text'><a href="javascript:void(0);">反美斗士查韦斯病逝</a></p>
+						   </div>
+						   <ul>
+					   	    	<li><a href="javascript:void(0);">李银河：情妇反腐与官员情色私隐</a></li>
+							 	<li><a href="javascript:void(0);">德国三政要辞职让李双江夫妇脸红</a></li>
+							 	<li><a href="javascript:void(0);">嘤鸣：台湾人生孩子要花多少钱？</a></li>
+								<li><a href="javascript:void(0);">名嘴毕福剑当初被逼进央视内幕</a></li>
+						   </ul>
+				 	  </div>	
+				 </div>
+				 <div class='interval_10'></div>
+				  <ul class='list_2'>
+					<li><span><a href="javascript:void(0);">[专题]</a></span><a href="javascript:void(0);">总理答记者问传递的改革信念和希望 </a><span class='author'><a href="javascript:void(0);">时言平</a></span></li>
+					<li><span><a href="javascript:void(0);">[财经]</a></span><a href="javascript:void(0);">政府为何认定征20%房产税有利控房价</a><span class='author'><a href="javascript:void(0);">钱永伟</a></span></li>
+					<li><span><a href="javascript:void(0);">[新书]</a></span><a href="javascript:void(0);">参加红卫兵葬礼后攻打学校“陪葬” </a><span class='author'><a href="javascript:void(0);">乔海燕</a></span></li>
+					<li><span><a href="javascript:void(0);">[社会]</a></span><a href="javascript:void(0);">香港奶粉商为何不借内地需求赚快钱？ </a><span class='author'><a href="javascript:void(0);">航亿苇</a></span></li>
+					<li><span><a href="javascript:void(0);">[天下]</a></span><a href="javascript:void(0);">安倍晋三是如何给奥巴马“送礼”的 </a><span class='author'><a href="javascript:void(0);">蒋丰</a></span></li>
+					<li><span><a href="javascript:void(0);">[两性]</a></span><a href="javascript:void(0);">政府为何认定征20%房产税有利控房价</a><span class='author'><a href="javascript:void(0);">王国春</a></span></li>
+					<li><span><a href="javascript:void(0);">[健康]</a></span><a href="javascript:void(0);">男人娶了就后悔的12种女人(图)</a><span class='author'><a href="javascript:void(0);">凤凰微博</a></span></li>
+				  </ul>
+				  <!--财经股票列表区域-->
+				  <div class='interval_17'></div>
+				  <div class='interval_8'></div>
+				  <div class='title_2'>
+	 	 	  		<span class='c_name l'>
+	 	 	  	   		<a href="javascript:void(0);">娱乐</a>
+					</span>
+				    <span class='c_sort r'>
+				   		<a href="javascript:void(0);"> 第85届奥斯卡金像奖</a><a href="javascript:void(0);">蛇年春晚</a><a style='background:none;' href="javascript:void(0);">风月</a>
+				    </span>
+			 	 </div>
+				  <ul class='list_2'>
+				  	<h3>
+				  		<a href="javascript:void(0);">27岁“海岩女郎”宋汶霏因癌症去世(组图)</a> 
+					</h3>
+			  	    <li><span><a href="javascript:void(0);">[热点]</a></span><a href="javascript:void(0);">李双江之子由未成年检察处处理 曾被曝超21岁</a></li>
+					<li><span><a href="javascript:void(0);">[关注]</a></span><a href="javascript:void(0);">成龙恋韩国女8年：若非环境因素 早当韩国女婿 </a></li>
+					<li><span><a href="javascript:void(0);">[关注]</a></span><a href="javascript:void(0);">57岁刘晓庆穿短裙晒美腿(图)</a></li>
+					<li><span><a href="javascript:void(0);">[港台]</a></span><a href="javascript:void(0);">台27岁女星自曝曾与小学生交往(图)</a></li>
+					<li><span><a href="javascript:void(0);">[明星]</a></span><a href="javascript:void(0);">张国荣张曼玉旧照曝光 两人床上“亲密”(图)</a></li>
+					<li><span><a href="javascript:void(0);">[八卦]</a></span><a href="javascript:void(0);">港妈妈级艳星与深圳富二代当街亲热(图)</a></li>
+					<li><span><a href="javascript:void(0);">[视频]</a></span><a class='video' href="javascript:void(0);">港妈妈级艳星与深圳富二代当街亲热(图)</a></li>
+				  </ul>
+				  <ul class='pic_text_4'>
+				  	   <li class='l'>
+				  	   		<a href="javascript:void(0);"><img src="./images/08210070.jpg"></a>
+				 	  	   	<p class='keep_bj keep_public_bj'></p>
+							<p class='keep_public_text text'><a href="javascript:void(0);">北电放榜 网络红人成功晋级</a></p>
+				  	   </li>
+					   <li class='r'>
+					   		<a href="javascript:void(0);"><img src="./images/14443776.jpg"></a>
+				 	  	   	<p class='keep_bj keep_public_bj'></p>
+							<p class='keep_public_text text'><a href="javascript:void(0);">美小天后拍全裸孕照登杂志</a></p>
+					   </li>
+				  </ul>	
+				  <div class='interval_22'></div>
+				  <!--广告位-->
+				  <div class='ad_360'>
+				  	   <ul class='ad_list_2'>
+		  	   	   	  	  <li><a href="javascript:void(0);">腰间盘突出形成的原因</a></li>
+					      <li><a href="javascript:void(0);">失眠—安全轻松入睡法 </a></li>
+					      <li><a href="javascript:void(0);">"颈椎病"是怎样形成的</a></li>
+					      <li><a href="javascript:void(0);">男人前列腺炎—有救了</a></li>
+						  <li><a href="javascript:void(0);">耳聋耳鸣为什么不见好</a></li>
+					      <li><a href="javascript:void(0);">男人强壮的秘诀-必备</a></li>
+					      <li><a href="javascript:void(0);">男人强壮-女人幸福-图</a></li>
+					      <li><a href="javascript:void(0);">高血压——物理降压法</a></li>
+					   </ul>
+				  </div>
+			 </div>
+			<div class='c'></div>
+			 <div class='ad_750'>
+			 	 <embed src="./images/94c1e1bf2b870fb0df9b039ac4529901.swf" width="100%" height="100%" type="application/x-shockwave-flash"></embed>
+			 </div>
+			 <div class='box_360 l'>
+			 	  <!--财经股票列表区域-->
+				  <div class='title_2'>
+	 	 	  		<span class='c_name l'> 
+			 	 	  	 <a href="javascript:void(0);">科技·数码</a>
+					</span>
+					<span class='c_sort r'>
+						 <a href="javascript:void(0);">手机</a><a href="javascript:void(0);">笔记本</a><a href="javascript:void(0);">相机</a><a href="javascript:void(0);">苹果</a><a style='background:none;' href="javascript:void(0);">探索</a>
+					</span>
+			 	 </div>
+				  <ul class='list_2'>
+				  	<h3>
+					  	 <a href="javascript:void(0);">凡客诚品宣布全资收购初刻 后者估值千万</a> 
+					</h3>
+			  	    <li><a href="javascript:void(0);">马云：最快乐是89元月薪教书 熬两月买自行车</a></li>
+								<li><a href="javascript:void(0);">雷军两会谈12306：不要低估了技术复杂度 </a></li>
+								<li><a href="javascript:void(0);">阿里或下月推信用支付：淘宝购物最长38天还款</a></li>
+								<li><a href="javascript:void(0);">5岁男孩玩10分钟iPad游戏花1.6万元 苹果全额偿还 </a></li>
+					</ul>
+				<div class='interval_10'></div>
+				<ul class='list_2'>
+					<li><span><a href="javascript:void(0);">[手机]</a></span><a href="javascript:void(0);">iPhone 5再降价300元 5吋屏大内存仅售2288元</a></li>
+					<li><span><a href="javascript:void(0);">[数码]</a></span><a href="javascript:void(0);">iPad mini售价回降 全球首款安卓手表售1360元</a></li>
+					<li><span><a href="javascript:void(0);">[奇闻]</a></span><a href="javascript:void(0);">男子被巨型“黑洞”吞噬 美女水下与魔鬼鱼舞</a></li>
+					<li><span><a href="javascript:void(0);">[探索]</a></span><a href="javascript:void(0);">大脑读心植入物 美国土著来自4万年前中国</a></li>
+				  </ul>
+				  <div class='interval_19'></div>
+				  <!--广告位-->
+				  <div class='ad_360'>
+				  	   <ul class='ad_list_1'>
+						   <li><a href="javascript:void(0);">降糖：糖尿病安全降血糖、稳血糖、长寿秘诀曝光</a></li>
+						      <li><a href="javascript:void(0);">关注：重振男人雄风秘方—让女人幸福（组图）</a></li>
+				  	   </ul>
+				  </div>
+				  <!--财经股票列表区域-->
+				  <div class='interval_17'></div>
+				  <div class='interval_8'></div>
+				  <div class='title_2'>
+	 	 	  		<span class='c_name l'>
+	 	 	  	   		<a href="javascript:void(0);">房产·家居</a>
+					</span>
+				    <span class='c_sort r'>
+				   		<a href="javascript:void(0);">论坛</a><a href="javascript:void(0);">论坛</a><a style='background:none;' href="javascript:void(0);">图库</a>
+				    </span>
+			 	 </div>
+				  <ul class='list_2'>
+				  	<h3>
+				  		<a href="javascript:void(0);">凡客诚品宣布全资收购初刻 后者估值千万</a> 
+					</h3>
+			  	    <li><a href="javascript:void(0);">马云：最快乐是89元月薪教书 熬两月买自行车</a></li>
+					<li><a href="javascript:void(0);">雷军两会谈12306：不要低估了技术复杂度 </a></li>
+					<li><a href="javascript:void(0);">阿里或下月推信用支付：淘宝购物最长38天还款</a></li>
+					<li><a href="javascript:void(0);">5岁男孩玩10分钟iPad游戏花1.6万元 苹果全额偿还 </a></li>
+					</ul>
+				<div class='interval_10'></div>
+				<ul class='list_2'>
+					<li><span><a href="javascript:void(0);">[专访]</a></span><a href="javascript:void(0);">民建副主席：调控陷两难 过松过紧都会出问题</a></li>
+					<li><span><a href="javascript:void(0);">[观点]</a></span><a href="javascript:void(0);">宗庆后：调控的方向不对 政策不能一刀切(图)</a></li>
+					<li><span><a href="javascript:void(0);">[八卦]</a></span><a href="javascript:void(0);">男子购摇摇欲坠小破屋修理后升值200多万(图)</a></li>
+					<li><span><a href="javascript:void(0);">[眼界]</a></span><a href="javascript:void(0);">疯狂的重口味：潮夫妻让人难眠的私密家居</a></li>
+					<li><span><a href="javascript:void(0);">[推荐]</a></span><a href="javascript:void(0);">澳大利亚百变风格亿元豪宅秀 谁能媲美？</a></li>
+					<li><span><a href="javascript:void(0);">[论坛]</a></span><a href="javascript:void(0);">浙江农村房吓傻国人(图) 看日本性爱旅馆内景</a></li>
+				  </ul>
+				  <div class='interval_19'></div>
+				  <!--广告位-->
+				  <div class='ad_360'>
+				  	   <ul class='ad_list_1'>
+						   <li><a href="javascript:void(0);">降糖：糖尿病安全降血糖、稳血糖、长寿秘诀曝光</a></li>
+						   <li><a href="javascript:void(0);">关注：重振男人雄风秘方—让女人幸福（组图）</a></li>
+				  	   </ul>
+				  </div>
+				  
+			 </div>
+			  <div class='box_360 r'>
+			 	  <!--财经股票列表区域-->
+				  <div class='title_2'>
+	 	  			<span class='c_name l'>
+	 	 	  	   		<a href="javascript:void(0);">时尚·化妆品库</a>
+					</span>
+				    <span class='c_sort r'>
+						<a style='background:none;' href="javascript:void(0);">2013秋冬巴黎时装周</a>
+				    </span>
+			 	 </div>
+				 <div class='pic_text_3'>
+				 	 <h3><a href="javascript:void(0);">中国青年初夜年龄降至18.2岁 美国16.4岁</a></h3> 
+				 	  <div class='box'>
+				 	  	   <div class='hot_pic'>
+				 	  	   	    <a href="javascript:void(0);"><img src="./images/15390896.jpg"></a>
+				 	  	   		<div class='keep_bj keep_public_bj'></div>
+								<p class='keep_public_text'><a href="javascript:void(0);">反美斗士查韦斯病逝</a></p>
+						   </div>
+						   <ul>
+					   	    	<li><a href="javascript:void(0);">3大中国女星同场看秀 暗自较劲</a></li>
+								<li><a href="javascript:void(0);">Celine春运风格“蛇皮袋”大衣</a></li>
+								<li><a href="javascript:void(0);">吴莫愁透视装性感亮相JPG秀场</a></li>
+								<li><a href="javascript:void(0);">迅速瓦解彩妆 测FANCL保湿卸妆液</a></li>
+						   </ul>
+				 	  </div>	
+				 </div>
+				 <div class='interval_10'></div>
+				  <ul class='list_2'>
+					<li><span><a href="javascript:void(0);">[美容]</a></span><a href="javascript:void(0);">资生堂热卖防晒被检出镉 雅诗兰黛小棕瓶试用</a></li>
+					<li><span><a href="javascript:void(0);">[美体]</a></span><a href="javascript:void(0);">女性最爱用的床上暗示 办公室减肥8式随时瘦</a></li>
+					<li><span><a href="javascript:void(0);">[情感]</a></span><a href="javascript:void(0);">女人“第一次”有多重要 夫妻亲热何时最佳</a></li>
+					<li><span><a href="javascript:void(0);">[论坛]</a></span><a href="javascript:void(0);">美女尴尬时刻实拍(图) 美国扫货收PRADA杀手包</a></li>
+				  </ul>
+				  <div class='interval_19'></div>
+				  <!--广告位-->
+				  <div class='ad_360'>
+				  	   <ul class='ad_list_1'>
+						   <li><a href="javascript:void(0);">降糖：糖尿病安全降血糖、稳血糖、长寿秘诀曝光</a></li>
+						      <li><a href="javascript:void(0);">关注：重振男人雄风秘方—让女人幸福（组图）</a></li>
+				  	   </ul>
+				  </div>
+				  <!--财经股票列表区域-->
+				  <div class='interval_17'></div>
+				  <div class='interval_8'></div>
+				  <div class='title_2'>
+	 	 	  		<span class='c_name l'>
+	 	 	  	   		<a href="javascript:void(0);">体育</a>
+					</span>
+				    <span class='c_sort r'>
+				   		<a href="javascript:void(0);">NBA</a><a href="javascript:void(0);">CBA</a><a href="javascript:void(0);">中国足球</a><a style='background:none;' href="javascript:void(0);">国际足球</a>
+				    </span>
+			 	 </div>
+				 <div class='pic_text_3'>
+				 	 <h3><a href="javascript:void(0);">林书豪21+9火箭狂屠小牛 姚明旷世纪录险被破</a></h3> 
+				 	  <div class='box'>
+				 	  	   <div class='hot_pic'>
+				 	  	   	    <a href="javascript:void(0);"><img src="./images/13403122.jpg"></a>
+				 	  	   		<div class='keep_bj keep_public_bj'></div>
+								<p class='keep_public_text'><a href="javascript:void(0);">篮球宝贝被球砸哭</a></p>
+						   </div>
+						   <ul>
+					   	    	<li><a href="javascript:void(0);">麦蒂观战火箭 正考虑重返休城(图)</a></li>
+								<li><a href="javascript:void(0);">科比9秒准绝杀 湖人1分险胜</a></li>
+								<li><a href="javascript:void(0);">白岩松：张吉龙的事儿不那么简单 </a></li>
+								<li><a href="javascript:void(0);">西媒曝C罗1月险揍穆帅</a></li>
+						   </ul>
+				 	  </div>	
+				 </div>
+				 <div class='interval_10'></div>
+				  <ul class='list_2'>
+					<li><span><a href="javascript:void(0);">[篮球]</a></span><a href="javascript:void(0);">辽疆战再爆冲突3天2架(图)！京鲁粤均横扫晋级</a></li>
+					<li><span><a href="javascript:void(0);">[中超]</a></span><a href="javascript:void(0);">中超确定最终赛程 16强名单：恒大王位受冲击</a></li>
+					<li><span><a href="javascript:void(0);">[新星]</a></span><a href="javascript:void(0);">王哲林现身休斯敦 与姚明共用经纪人或投火箭</a></li>
+					<li><span><a href="javascript:void(0);">[前瞻]</a></span><a href="javascript:void(0);">亚泰巡礼：中超客场之王 保6志在搅局 专题</a></li>
+					<li><span><a href="javascript:void(0);">[足坛]</a></span><a href="javascript:void(0);">15岁中国少年独闯巴萨青训营 被赞“小梅西”</a></li>
+					<li><span><a href="javascript:void(0);">[观点]</a></span><a href="javascript:void(0);">独家评论：张吉龙退出体现有关部门大策略</a></li>
+				  </ul>
+				  <div class='interval_19'></div>
+				  <!--广告位-->
+				  <div class='ad_360'>
+				  	   <ul class='ad_list_1'>
+						   <li><a href="javascript:void(0);">30岁男人必看—让男人“强壮”的秘密武器(组图)</a></li>
+						   <li><a href="javascript:void(0);">糖尿病—2013获国际重大突破—再造胰岛生机</a></li>
+				  	   </ul>
+				  </div>
+				  
+			 </div>
+			<div class='c'></div>
+			 <div class='ad_750'>
+			 	<iframe frameborder=0 width="100%" height="100%" scrolling="no" src="http://z.alimama.com/alimama.php?i=mm_12229823_1573806_8858193&w=750&h=90&sz=11&re=1366x768&cah=728&caw=1366&ccd=24&ctz=8&chl=2&cja=0&cpl=22&cmm=32&cf=11.5&cg=9a40b8774ea226189aa47fe58cd0e6e4&ac=7234&prm=88439219&cas=prm&cbh=2335&cbw=1349&sx=389&sy=2335&refpos=,a,null&t=2&tc=0000FF&dc=000000&bgc=FFFFFF&bdc=E6E6E6&lc=008000&bmc=FFFFFF&as=0&bgp=0&ic=0&pf=1&p4p_ai=1&dx=1&iss=0&u=http%3A%2F%2Fwww.ifeng.com%2F&k=&tt=%E5%87%A4%E5%87%B0%E7%BD%91&r=&fu=-1&pageid=4638eaf77f09b04ee455ffee705fc5de"></iframe>
+			 </div>
+			 <div class='box_360 l'>
+			 	  <!--财经股票列表区域-->
+				  <div class='title_2'>
+	 	 	  		<span class='c_name l'> 
+			 	 	  	  <a href="javascript:void(0);">历史</a>
+					</span>
+					<span class='c_sort r'>
+						  <a href="javascript:void(0);">官方微博</a>
+						  <a style='background:none;' href="javascript:void(0);">知青</a>
+					</span>
+			 	 </div>
+				  <ul class='list_2'>
+				  	<h3>
+				  		<a href="javascript:void(0);">张学良侄女揭秘张学良晚年未回大陆真实原因</a> 
+					</h3>
+			  	    <li><a href="javascript:void(0);">越南将领眼中的中国：哪朝哪代它都试图侵占我国领土 </a></li>
+					<li><a href="javascript:void(0);">胡长清如何被拉下水？大款找妓女冒充女学生供其淫乐</a></li>
+					<li><a href="javascript:void(0);">贺捷生谈父亲贺龙在南昌起义能被选为总指挥真实原因</a></li>
+					<li><a href="javascript:void(0);">哪位开国上将因常挥刀冲入敌阵被称为“红军赵子龙”</a></li>
+					</ul>
+				<div class='interval_10'></div>
+				<ul class='list_2'>
+					<li><span><a href="javascript:void(0);">[现代]</a></span><a href="javascript:void(0);">江泽民为何事深感羞辱？多年后心中仍不平静</a></li>
+					<li><span><a href="javascript:void(0);">[近代]</a></span><a href="javascript:void(0);">顾顺章叛变后故意隐瞒机密 想回中共遭枪决？</a></li>
+					<li><span><a href="javascript:void(0);">[古代]</a></span><a href="javascript:void(0);">杨广未非礼母妃宣华夫人 俩人早有不正当关系</a></li>
+					<li><span><a href="javascript:void(0);">[知青]</a></span><a href="javascript:void(0);">知青下乡摆拍照：围坐地头读“红宝书”[组图]</a></li>
+				  </ul>
+				  
+				  <!--财经股票列表区域-->
+				  <div class='interval_17'></div>
+				  <div class='interval_8'></div>
+				  <div class='title_2'>
+	 	 	  		<span class='c_name l'>
+	 	 	  	   		<a href="javascript:void(0);">军事</a>
+					</span>
+				    <span class='c_sort r'>
+				   		<a href="javascript:void(0);">军事图片</a><a style='background:none;' href="javascript:void(0);">防务观察</a>
+				    </span>
+			 	 </div>
+				  <ul class='list_2'>
+				  	<h3>
+				  		<a href="javascript:void(0);">中国航母新建母港全景照片曝光 气势恢宏(图)</a> 
+					</h3>
+					<li><a href="javascript:void(0);">武警上将：目前而言建航母未必是最合适的选择</a></li>
+					<li><a href="javascript:void(0);">傅莹：若连中国都不能自保 对世界不是好消息</a></li>
+					<li><a href="javascript:void(0);">尹卓：不允许像鸦片战争那样用武力夺走我们东西</a></li>
+					<li><a href="javascript:void(0);">解放军女人大代表：146天从门外汉成特等狙击手 </a></li>
+					<li><a href="javascript:void(0);">印度军队用日本降落伞造成重大伤亡 30名摔死16人</a></li>
+					</ul>
+				<div class='interval_10'></div>
+				<ul class='list_2'>
+					<li><span><a href="javascript:void(0);">[独家]</a></span><a href="javascript:void(0);">中国男子闯入美军基地要加入美军 遭日方逮捕</a></li>
+					<li><span><a href="javascript:void(0);">[声音]</a></span><a href="javascript:void(0);">军报：中国梦是强军梦 伟大民族必有强大军队</a></li>
+					<li><span><a href="javascript:void(0);">[视点]</a></span><a href="javascript:void(0);">朱德之孙：如果日本一再挑衅 有可能擦枪走火</a></li>
+					<li><span><a href="javascript:void(0);">[军情]</a></span><a href="javascript:void(0);">印度海军为“维克拉玛蒂亚”号航母建造母港</a></li>
+					<li><span><a href="javascript:void(0);">[视频]</a></span><a href="javascript:void(0);">台军部署远程雷达监视钓岛 扩建太平岛机场</a></li>
+				  </ul>
+			 </div>
+			  <div class='box_360 r'>
+			 	  <!--财经股票列表区域-->
+				  <div class='title_2'>
+	 	  			<span class='c_name l'>
+	 	 	  	   		<a href="javascript:void(0);">纪实·VIP</a>
+					</span>
+				    <span class='c_sort r'>
+						<a href="javascript:void(0);">史实</a><a href="javascript:void(0);">探索</a><a href="javascript:void(0);">甲乙丙丁</a><a style='background:none;' href="javascript:void(0);">2013秋冬巴黎时装周</a>
+				    </span>
+			 	 </div>
+				 <div class='pic_text_3'>
+				 	 <h3><a href="javascript:void(0);">艳谍川岛芳子或未伏法 化名“方姥”隐居长春</a> </h3> 
+				 	  <div class='box'>
+				 	  	   <div class='hot_pic'>
+				 	  	   	    <a href="javascript:void(0);"><img src="./images/15390896.jpg"></a>
+				 	  	   		<div class='keep_bj keep_public_bj'></div>
+								<p class='keep_public_text'><a href="javascript:void(0);">清纯校花级女星发福</a></p>
+						   </div>
+						   <ul>
+					   	    	<li><a href="javascript:void(0);">丛林迷踪：金三角国军特工部队解密</a></li>
+								<li><a href="javascript:void(0);">孟良崮战役：粟裕使一招大败张灵甫</a></li>
+								<li><a href="javascript:void(0);">毛泽东评党内哪些人“像群小绵羊”</a></li>
+								<li><a href="javascript:void(0);">邓小平随毛泽东访苏为何遭“罚站”</a></li>
+						   </ul>
+				 	  </div>	
+				 </div>
+				 <div class='interval_10'></div>
+				  <ul class='list_2'>
+					<li><span><a href="javascript:void(0);">[揭秘]</a></span><a href="javascript:void(0);">1976年王洪文督造“一号工程”突然中止内情</a></li>
+					<li><span><a href="javascript:void(0);">[人物]</a></span><a href="javascript:void(0);">中共特工“龙潭三杰”结局曝光：仅一人善终</a></li>
+					<li><span><a href="javascript:void(0);">[VIP]</a></span><a href="javascript:void(0);">毛新宇委员曾高谈反腐 号召向毛主席学习</a></li>
+					<li><span><a href="javascript:void(0);">[解密]</a></span><a href="javascript:void(0);">十万援朝大军归国后为何神秘“蒸发”</a></li>
+				  </ul>
+				  
+				  <!--财经股票列表区域-->
+				  <div class='interval_17'></div>
+				  <div class='interval_8'></div>
+				  <div class='title_2'>
+	 	 	  		<span class='c_name l'>
+	 	 	  	   		<a href="javascript:void(0);">看游戏·玩游戏</a>
+					</span>
+				    <span class='c_sort r'>
+				   		<a href="javascript:void(0);">大将军</a><a href="javascript:void(0);">大侠传</a><a style='background:none;' href="javascript:void(0);">三国风云2</a>
+				    </span>
+			 	 </div>
+				  <ul class='list_2'>
+				  	<h3><a href="javascript:void(0);">产业报告：游戏出口增长 人才匮乏制约发展 </a> </h3>
+					<li><span><a href="javascript:void(0);">[新闻]</a></span><a href="javascript:void(0);">台湾名模扮性感狼女 率猛男街头为游戏造势</a></li>
+					<li><span><a href="javascript:void(0);">[热点]</a></span><a href="javascript:void(0);">开学后家长头疼 五毛食品游戏点卡该管管了</a></li>
+					<li><span><a href="javascript:void(0);">[图说]</a></span><a href="javascript:void(0);">柳岩春花烂漫透视装写真 秀小蛮腰显女人味</a></li>
+					<li><span><a href="javascript:void(0);">[故事]</a></span><a href="javascript:void(0);">揭秘三国时期一场因“禁酒”引发的军事政变</a></li>
+					<li><span><a href="javascript:void(0);">[新游]</a></span><a href="javascript:void(0);">揭秘三国演义名将 颜良文丑为何被秒杀</a></li>
+				  </ul>
+				  <ul class='pic_text_4'>
+				  	   <li class='l'>
+				  	   		<a href="javascript:void(0);"><img src="./images/08423651.jpg"></a>
+				 	  	   	<p class='keep_bj keep_public_bj'></p>
+							<p class='keep_public_text text'><a href="javascript:void(0);">北电放榜 网络红人成功晋级</a></p>
+				  	   </li>
+					   <li class='r'>
+					   		<a href="javascript:void(0);"><img src="./images/14443776.jpg"></a>
+				 	  	   	<p class='keep_bj keep_public_bj'></p>
+							<p class='keep_public_text text'><a href="javascript:void(0);">美小天后拍全裸孕照登杂志</a></p>
+					   </li>
+				  </ul>	
+				  
+			 </div>
+			<div class='c'></div>
+			 <div class='ad_750'>
+			 	 <embed src="./images/94c1e1bf2b870fb0df9b039ac4529901.swf" width="100%" height="100%" type="application/x-shockwave-flash"></embed>
+			 </div>
+			 <div class='box_360 l'>
+			 	  <!--财经股票列表区域-->
+				  <div class='title_2'>
+	 	 	  		<span class='c_name l'>
+	 	 	  	   		<a href="javascript:void(0);">文化</a>
+					</span>
+				    <span class='c_sort r'>
+				   		<a href="javascript:void(0);">专题</a><a style='background:none;' href="javascript:void(0);">诗歌</a>
+				    </span>
+			 	 </div>
+				  <ul class='list_2'>
+				  	<h3>
+				  		<a href="javascript:void(0);">莫言否认写“重庆赞美诗”：我的本意是讽刺</a> 
+					</h3>
+			  	    <li><a href="javascript:void(0);">8名子女卷入国画家许麟庐遗产争夺 涉案字画价值20亿</a></li>
+					<li><a href="javascript:void(0);">崔永元：听到官话套话就头大眼花 说真话就那么难？</a></li>
+					<li><a href="javascript:void(0);">法院澄清季羡林故居案结案报道：被告人未无罪释放</a></li>
+					<li><a href="javascript:void(0);">高满堂：为收集《闯关东》素材差点送命 高烧昏睡七天</a></li>
+					
+				 </ul>
+				 <div class='interval_10'></div>
+				  <ul  class='list_2'>	
+					<li><span><a href="javascript:void(0);">[活动]</a></span><a href="javascript:void(0);">高校展览为行为艺术“驱魔” 跳舞“喂鸽子”</a></li>
+					<li><span><a href="javascript:void(0);">[时评]</a></span><a href="javascript:void(0);">李安：从小被父亲管得严 遵从“温良恭俭让”</a></li>
+					<li><span><a href="javascript:void(0);">[轶闻]</a></span><a href="javascript:void(0);">年轻版《蒙娜丽莎》证身世 与原画比例相似</a></li>
+					<li><span><a href="javascript:void(0);">[高清]</a></span><a href="javascript:void(0);">民国“第一艳星”旧照：脸若银盘 杏眼薄唇</a></li>
+				  </ul>
+				  
+				  <!--财经股票列表区域-->
+				  <div class='interval_17'></div>
+				  <div class='interval_8'></div>
+				  <div class='title_2'>
+	 	 	  		<span class='c_name l'>
+	 	 	  	   		<a href="javascript:void(0);">读书·原创</a>
+					</span>
+				    <span class='c_sort r'>
+				   		<a href="javascript:void(0);">书库</a><a href="javascript:void(0);">电子书</a><a style='background:none;' href="javascript:void(0);">2012凤凰网年度图书</a>
+				    </span>
+			 	 </div>
+				  <ul class='list_2'>
+				  	<h3>
+				  		<a href="javascript:void(0);">凡客诚品宣布全资收购初刻 后者估值千万</a> 
+					</h3>
+					<li><span><a href="javascript:void(0);">[图书]</a></span><a href="javascript:void(0);">中越战争秘录　太平公主　99%中国人不知道的</a></li>
+					<li><span><a href="javascript:void(0);">[图书]</a></span><a href="javascript:void(0);">性虐秘史　寡妇贪欢记　公务员内参　肉蒲团 </a></li>
+					<li><span><a href="javascript:void(0);">[乡情]</a></span><a href="javascript:void(0);">狗眼里春天　陌野村医　大学生村官　情场笔记</a></li>
+					<li><span><a href="javascript:void(0);">[玄幻]</a></span><a href="javascript:void(0);">邪剑至尊　刀圣天尊　异世风流掌门　炒遍天下 </a></li>
+					
+				</ul>
+				<div class='interval_10'></div>
+				<ul class='list_2'>
+					<li><span><a href="javascript:void(0);">[都市]</a></span><a href="javascript:void(0);">欲望村庄风流事　留守妹　寻找潘金莲　五花窑</a></li>
+					<li><span><a href="javascript:void(0);">[官场]</a></span><a href="javascript:void(0);">我给老公戴帽子　读心小子混官场　官囚　官途</a></li>
+					<li><span><a href="javascript:void(0);">[军史]</a></span><a href="javascript:void(0);">狙击猎杀　军人闯官场　铁甲正义　兵与蛇</a></li>
+					<li><span><a href="javascript:void(0);">[榜单]</a></span><a href="javascript:void(0);">留守媳妇　风韵情人　混世小农民　老师美如妖</a></li>
+				  </ul>
+			 </div>
+			  <div class='box_360 r'>
+			 	  <!--财经股票列表区域-->
+				  <div class='title_2'>
+	 	  			<span class='c_name l'>
+	 	 	  	   		<a href="javascript:void(0);">健康·亲子</a>
+					</span>
+				    <span class='c_sort r'>
+						<a href="javascript:void(0);">饮食</a><a href="javascript:void(0);">心理</a><a href="javascript:void(0);">养生</a><a href="javascript:void(0);">养生</a><a style='background:none;' href="javascript:void(0);">孕育</a>
+				    </span>
+			 	 </div>
+				 <div class='pic_text_3'>
+				 	 <h3><a href="javascript:void(0);">离婚中年：一场离婚大战 两个男人的莫逆交</a></h3> 
+				 	  <div class='box'>
+				 	  	   <div class='hot_pic'>
+				 	  	   	    <a href="javascript:void(0);"><img src="./images/13403122.jpg"></a>
+				 	  	   		<div class='keep_bj keep_public_bj'></div>
+								<p class='keep_public_text'><a href="javascript:void(0);">准得惊人的心理测试</a></p>
+						   </div>
+						   <ul>
+					   	    	<li><a href="javascript:void(0);">揭秘：10位开国将军的百岁长寿秘籍</a></li>
+									  <li><a href="javascript:void(0);">最靠谱的食物排行 养胃必吃6种食物</a></li>
+									  <li><a href="javascript:void(0);">警惕：7个小信号提示你心脏有问题</a></li>
+									  <li><a href="javascript:void(0);">总让女人欲罢不能的7种“男人味”</a></li>
+						   </ul>
+				 	  </div>	
+				 </div>
+				 <div class='interval_10'></div>
+				  <ul class='list_2'>
+					<li><span><a href="javascript:void(0);">[热点]</a></span><a href="javascript:void(0);">3种情形女性私处要动刀 6个症状自测生男生女</a></li>
+					<li><span><a href="javascript:void(0);">[亲子]</a></span><a href="javascript:void(0);">四类父亲影响宝宝前程 怎样培养孩子表达能力</a></li>
+					<li><span><a href="javascript:void(0);">[两性]</a></span><a href="javascript:void(0);">多少岁的女人性欲最高 古代闹洞房中的性暗示</a></li>
+					<li><span><a href="javascript:void(0);">[情感]</a></span><a href="javascript:void(0);">每天夫妻交流的5大好处 最流行的5句爱情语录</a></li>
+				  </ul>
+				  
+				  <!--财经股票列表区域-->
+				  <div class='interval_17'></div>
+				  <div class='interval_8'></div>
+				  <div class='title_2'>
+	 	 	  		<span class='c_name l'>
+	 	 	  	   		<a href="javascript:void(0);">教育</a>
+					</span>
+				    <span class='c_sort r'>
+				   		<a href="javascript:void(0);">高考</a><a href="javascript:void(0);">考研</a><a style='background:none;' href="javascript:void(0);">公务员</a>
+				    </span>
+			 	 </div>
+				 <div class='pic_text_3'>
+				 	 <h3><a href="javascript:void(0);">姚明谈“星二代”教育：做爸爸就不要做明星</a></h3> 
+				 	  <div class='box'>
+				 	  	   <div class='hot_pic'>
+				 	  	   	    <a href="javascript:void(0);"><img src="./images/13403122.jpg"></a>
+				 	  	   		<div class='keep_bj keep_public_bj'></div>
+								<p class='keep_public_text'><a href="javascript:void(0);">北影三试放榜现场</a></p>
+						   </div>
+						   <ul>
+					   	    	<li><a href="javascript:void(0);">大学生寝室里DIY“女朋友”(组图)</a></li>
+									  <li><a href="javascript:void(0);">鸟叔名字成高校自主招生考题(图)</a></li>
+									  <li><a href="javascript:void(0);">考研占座近疯狂“毒标语”创意无限 </a></li>
+									  <li><a href="javascript:void(0);">河南招聘会6.5万人排千米长队求职</a></li>
+						   </ul>
+				 	  </div>	
+				 </div>
+				  <div class='interval_10'></div>
+				  <ul class='list_2'>
+					<li><span><a href="javascript:void(0);">[热点]</a></span><a href="javascript:void(0);">2012年教育支出占GDP达4% 是否花刀刃上成焦点</a></li>
+					<li><span><a href="javascript:void(0);">[高考]</a></span><a href="javascript:void(0);">直击少年大学生选拔：个性与创新成关键词</a></li>
+					<li><span><a href="javascript:void(0);">[留学]</a></span><a href="javascript:void(0);">英部分私校“向钱看” 招大量中国小留学生</a></li>
+					<li><span><a href="javascript:void(0);">[职场]</a></span><a href="javascript:void(0);">名校博士回乡种地 80后代表“新手上路”</a></li>
+				  </ul>
+				  
+				  
+			 </div>
+			 <div class='c'></div>
+			 <div class='ad_750'>
+			 	 <embed src="./images/94c1e1bf2b870fb0df9b039ac4529901.swf" width="100%" height="100%" type="application/x-shockwave-flash"></embed>
+			 </div>
+			 <div class='box_360 l'>
+			 	<div class='title_2'>
+	 	  			<span class='c_name l'>
+	 	 	  	   		<a href="javascript:void(0);">公益·佛教</a>
+					</span>
+				    <span class='c_sort r'>
+						<a href="javascript:void(0);">环保</a><a style='background:none;' href="javascript:void(0);">高清</a>
+				    </span>
+			 	 </div>
+			 	<ul class='list_2'>
+				  	<h3>
+				  		<a href="javascript:void(0);">人口计生委研究所长：分省分步放开二胎生育</a> 
+					</h3>
+					<li><a href="javascript:void(0);">云南洱源12小时内连发3次地震 受灾人数增至9.2万(图)</a></li>
+					<li><a href="javascript:void(0);">人体器官移植困局待解 “暴利超贩毒”滋生非法交易</a></li>
+					<li><a href="javascript:void(0);">武汉一女子水塘轻生10余人围观 无人施救2分钟后溺亡</a></li>
+					<li><a href="javascript:void(0);">北京市市长王安顺：将市民健康放首位 重点降低PM2.5</a></li>
+					
+				</ul>
+				<div class='interval_10'></div>
+				<ul class='list_2'>
+					<li><span><a href="javascript:void(0);">[头条]</a></span><a href="javascript:void(0);">中佛协传印长老政协提案 要解决佛寺法人问题</a></li>
+					<li><span><a href="javascript:void(0);">[视频]</a></span><a href="javascript:void(0);">古代东方四大奇迹吴哥窟 草根菩提阿里山邮差</a></li>
+					<li><span><a href="javascript:void(0);">[美文]</a></span><a href="javascript:void(0);">何为禅心 你更有魅力 延续六百年的色拉寺火供</a></li>
+					<li><span><a href="javascript:void(0);">[素食]</a></span><a href="javascript:void(0);">老北京早点从素到肉的变迁 雕刻家与禅师故事</a></li>
+				  </ul>
+			 </div>
+			 <div class='box_360 r'>
+			 	<div class='title_2'>
+	 	  			<span class='c_name l'>
+	 	 	  	   		<a href="javascript:void(0);">旅游·星座</a>
+					</span>
+				    <span class='c_sort r'>
+						<a href="javascript:void(0);">旅游特价线路</a><a style='background:none;' href="javascript:void(0);">风水</a>
+				    </span>
+			 	 </div>
+				 <div class='pic_text_3'>
+				 	  <h3><a href="javascript:void(0);">埃及拟1个月后重启热气球游 国内赏樱十大胜地</a> </h3>
+				 	  <div class='box'>
+				 	  	   <div class='hot_pic'>
+				 	  	   	    <a href="javascript:void(0);"><img src="./images/13403122.jpg"></a>
+				 	  	   		<div class='keep_bj keep_public_bj'></div>
+								<p class='keep_public_text'><a href="javascript:void(0);">赛场上“惊艳”瞬间 </a></p>
+						   </div>
+						   <ul>
+						   	    <li><a href="javascript:void(0);">世界上最安全的牛肉：澳大利亚牛肉</a></li>
+								<li><a href="javascript:void(0);">三天玩爽海南岛 享碧海蓝天的魅惑</a></li>
+								<li><a href="javascript:void(0);">赤壁羊楼洞：尘封千年的砖茶古镇</a></li>
+								<li><a href="javascript:void(0);">一日看尽长安花 西安最适合赏花地</a></li>
+						   </ul>
+				 	  </div>	
+				 </div>
+				 <div class='interval_10'></div>
+			 	<ul class='list_2'>
+					<li><span><a href="javascript:void(0);">[新闻]</a></span><a href="javascript:void(0);">国家旅游局局长：有弹性带薪休假制度更易落实</a></li>
+					<li><span><a href="javascript:void(0);">[航空]</a></span><a href="javascript:void(0);">国内航线燃油附加费将上调 5日起乘机多掏10元</a></li>
+					<li><span><a href="javascript:void(0);">[星座]</a></span><a href="javascript:void(0);">3月爱情顺风顺水的星座 3.4日天秤座状态很好</a></li>
+					<li><span><a href="javascript:void(0);">[传统]</a></span><a href="javascript:void(0);">生肖周运3.3-3.9 塔罗占卜你下任男友长啥样</a></li>
+				</ul>
+				  
+			 </div>
+			 <div class='c'></div>
+			 <div class='ad_750'>
+			 	 <embed src="./images/94c1e1bf2b870fb0df9b039ac4529901.swf" width="100%" height="100%" type="application/x-shockwave-flash"></embed>
+			 </div>
+			 <div class='box_360 l'>
+			 	<div class='title_2'>
+	 	  			<span class='c_name l'>
+	 	 	  	   		<a href="javascript:void(0);">台湾站·城市</a>
+					</span>
+				    <span class='c_sort r'>
+						<a href="javascript:void(0);">谈资</a><a href="javascript:void(0);">台客</a><a style='background:none;' href="javascript:void(0);">高清</a>
+				    </span>
+			 	 </div>
+			 	<ul class='list_2'>
+				  	<h3>
+				  		<a href="javascript:void(0);">台媒建言两岸理论大架构 提“大屋顶中国”</a> 
+					</h3>
+					<li><a href="javascript:void(0);">贾庆林：过去5年访台共20次 曾邀台湾民代访问大陆</a></li>
+					<li><a href="javascript:void(0);">高雄劳工游行 “小巨人”杨秋兴后脑勺遭砸两蛋(图)</a></li>
+					<li><a href="javascript:void(0);">辛晓琪参加《我是歌手》未唱观众先哭 被疑有假哭部队</a></li>
+					<li><a href="javascript:void(0);">李宗瑞案女主吴亚馨等多位女星 时尚杂志全裸出镜(图)</a></li>
+					</ul>
+				<div class='interval_10'></div>
+				<ul class='list_2'>
+					<li><span><a href="javascript:void(0);">[头条]</a></span><a href="javascript:void(0);">计生委官员:建议分省分步放开二胎 穷省先行</a></li>
+					<li><span><a href="javascript:void(0);">[关注]</a></span><a href="javascript:void(0);">福建证监局原副局长有16套房 调查称收入足够 </a></li>
+					<li><span><a href="javascript:void(0);">[城市]</a></span><a href="javascript:void(0);">把脉新型城镇化 中国特色城镇化不是搞房地产</a></li>
+					<li><span><a href="javascript:void(0);">[高清]</a></span><a href="javascript:void(0);">合法妓院中的妓女生活 朝鲜女性最向往的职业</a></li>
+					<li><span><a href="javascript:void(0);">[纪实]</a></span><a href="javascript:void(0);">揭秘李双江与梦鸽师生恋 "二代"们在国外嚣张</a></li>
+				  </ul>
+			 </div>
+			 <div class='box_360 r'>
+			 	<div class='title_2'>
+	 	  			<span class='c_name l'>
+	 	 	  	   		<a href="javascript:void(0);">论坛</a>
+					</span>
+				    <span class='c_sort r'>
+						<a href="javascript:void(0);">报料</a><a href="javascript:void(0);">娱闻</a><a style='background:none;' href="javascript:void(0);">版块导航</a>
+				    </span>
+			 	 </div>
+			 	<ul class='list_2'>
+				  	<h3>
+				  		<a href="javascript:void(0);">女子1年内处60个对象 世界富豪排名的最大亮点</a> 
+					</h3>
+			
+					<li><span><a href="javascript:void(0);">[新闻]</a></span><a href="javascript:void(0);">国家旅游局局长：有弹性带薪休假制度更易落实</a></li>
+					<li><span><a href="javascript:void(0);">[航空]</a></span><a href="javascript:void(0);">国内航线燃油附加费将上调 5日起乘机多掏10元</a></li>
+					<li><span><a href="javascript:void(0);">[星座]</a></span><a href="javascript:void(0);">3月爱情顺风顺水的星座 3.4日天秤座状态很好</a></li>
+					<li><span><a href="javascript:void(0);">[传统]</a></span><a href="javascript:void(0);">生肖周运3.3-3.9 塔罗占卜你下任男友长啥样</a></li>
+				  </ul>
+				  <ul class='pic_text_4'>
+				  	   <li class='l'>
+				  	   		<a href="javascript:void(0);"><img src="./images/08481032.jpg"></a>
+				 	  	   	<p class='keep_bj keep_public_bj'></p>
+							<p class='keep_public_text text'><a href="javascript:void(0);">赵本山携小姨子亮相《乡6》</a></p>
+				  	   </li>
+					   <li class='r'>
+					   		<a href="javascript:void(0);"><img src="./images/14001623.jpg"></a>
+				 	  	   	<p class='keep_bj keep_public_bj'></p>
+							<p class='keep_public_text text'><a href="javascript:void(0);">美小天后拍全裸孕照登杂志</a></p>
+					   </li>
+				  </ul>
+			 </div>
+		</div>
+	</div>
+	<div class='c'></div>
+	<div class='ad_1000'>
+		 <a href="javascript:void(0);"><img src="./images/9ac6aca29c252a266a48a4cfc0e02888.gif"></a>
+	</div>	
+	<!--页面主体结束-->
+	<div id="footer">
+		 <ul class='city'>
+		 	  <h3><a href="javascript:void(0);">凤凰城市联盟</a></h3>
+			  <li ><a href="山东">山东</a> | <a href="陕西">陕西</a> | <a href="河南">河南</a> | <a href="辽宁">辽宁</a> | <a href="广州">广州</a> | <a href="重庆">重庆</a> |</li>
+			  <li ><a href="山东">天津</a> | <a href="陕西">福州</a> | <a href="河南">青岛</a> | <a href="辽宁">厦门</a> | <a href="广州">宁波</a> | <a href="重庆">专题</a> |</li>
+			  <li class='w262'><a href="山东">关注</a> | <a href="陕西">观点</a> | <a href="河南">观察</a> | <a href="辽宁">公益</a> | <a href="广州">时评</a> | <a href="重庆">投资</a> |</li>
+		 </ul>
+		 <div class='end_bj'>
+		 	  <div class='ft_nav dm_center'>
+		 	  		<ul>
+		 	  			<li><a href="javascript:void(0);">资讯</a></li>
+						<li><a href="javascript:void(0);">财经</a></li>
+						<li><a href="javascript:void(0);">娱乐</a></li>
+						<li><a href="javascript:void(0);">体育</a></li>
+						<li><a href="javascript:void(0);">时尚</a></li>
+						<li><a href="javascript:void(0);">健康</a></li>
+						<li><a href="javascript:void(0);">汽车</a></li>
+						<li><a href="javascript:void(0);">房产</a></li>
+						<li><a href="javascript:void(0);">科技</a></li>
+						<li><a href="javascript:void(0);">旅游</a></li>
+						<li><a href="javascript:void(0);">读书</a></li>
+						<li><a href="javascript:void(0);">教育</a></li>
+						<li><a href="javascript:void(0);">文化</a></li>
+						<li><a href="javascript:void(0);">历史</a></li>
+						<li><a href="javascript:void(0);">军事</a></li>
+						<li><a href="javascript:void(0);">视频</a></li>
+						<li><a href="javascript:void(0);">博客</a></li>
+						<li class='no_bj'><a href="javascript:void(0);">论坛</a></li>
+		 	  		</ul>
+					<span>
+						<a class='ifeng_tv' href="javascript:void(0);">凤凰卫视</a>
+					</span>
+		 	  </div>
+			  
+		 </div>
+		 <div class='footer_link'>
+		 	   <a href="凤凰新媒体介绍">凤凰新媒体介绍</a>|<a href="投资者关系 Investor Relations">投资者关系 Investor Relations</a>|<a href="English">English</a>|<a href="广告服务">广告服务</a>|<a class='red' href="诚征英才">诚征英才</a>|<a href="保护隐私权">保护隐私权</a>|<a href="免责条款">免责条款</a>|<a href="法律顾问">法律顾问</a>|<a href="意见反馈">意见反馈</a>|<a href="凤凰卫视介绍凤凰广播凤凰周刊凤凰学院">凤凰卫视介绍凤凰广播凤凰周刊凤凰学院</a> 
+		 </div>
+		 <div class='copyright'>
+		 	  <p>凤凰新媒体 版权所有</p>
+			  <p style="font-family:Arial;">Copyright © 2011 Phoenix New Media Limited All Rights Reserved.</p> 
+			  <p><a href="京ICP证030609号">京ICP证030609号</a>    <a href="增值电信业务经营许可证B2-20060060">增值电信业务经营许可证B2-20060060</a>    <a href="广播电视节目制作经营许可证（京）字第803号">广播电视节目制作经营许可证（京）字第803号</a>    <a href="网络文化经营许可证文网文【2010】136号">网络文化经营许可证文网文【2010】136号</a>    </p> 
+			  <p><a href="互联网出版许可证新出网证（京）字108号">互联网出版许可证新出网证（京）字108号</a>    京公网安备 110000000023号   </p>  
+		 </div>
+		 <div class='org_link'>
+		 	 <div>
+		 	 	<a href="javascript:void(0);"><img src="./images/gs.gif"></a>
+		 	 </div>
+			 <div class='text'>
+			 	 经营性网站备案信息
+			 </div>
+			 <div>
+		 	 	<a href="javascript:void(0);"><img src="./images/xinyong.gif"></a>
+		 	 </div>
+			 <div class='text'>
+			 	中  国<br/>互联网协会
+			 </div>
+			 <div>
+		 	 	<a href="javascript:void(0);"><img src="./images/baojing.gif"></a>
+		 	 </div>
+			 <div class='text'>
+			 	网络110<br/>报警服务
+			 </div>
+			 <div>
+		 	 	<a href="javascript:void(0);"><img src="./images/logo_bjjubao_v2.gif"></a>
+		 	 </div>
+			 <div class='text'>
+			 	 不良信息<br/>举报中心
+			 </div>
+			 <div>
+		 	 	<a href="javascript:void(0);"><img src="./images/logo_bjwhsc.jpg"></a>
+		 	 </div>
+			 <div class='text'>
+			 	 北京12318<br/>文化市场<br/>举报热线
+			 </div>
+			 <div>
+		 	 	<a href="javascript:void(0);"><img src="./images/cx.jpg"></a>
+		 	 </div>
+			 <div class='text' style='margin-right:0px;'>
+			 	 诚信网站<br/>示范企业
+			 </div>
+		 </div>
+	</div>
+</body>
+</html>
